@@ -1,6 +1,6 @@
-## Hello! My name is Nizar,
+## Hello!
 
-I'm an Electrical Engineering student at **UC San Diego**, focused on **PCB design, digital hardware, and embedded systems**. I enjoy taking projects from circuit analysis and simulation to schematic capture, board layout, and hands-on testing.
+My name is [Nizar](https://niali.netlify.app/), I'm an Electrical Engineering student at **UC San Diego**, focused on **PCB design, digital hardware, and embedded systems**. I enjoy taking projects from circuit analysis and simulation to schematic capture, board layout, and hands-on testing.
 
 I'm part of the electrical team at **Yonder Dynamics**, UCSD's Mars rover team, where I work on PCB development in Altium and collaborate with mechanical and software teammates.
 
