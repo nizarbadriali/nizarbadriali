@@ -1,4 +1,4 @@
-## Yoo, my name is Nizar!
+## Hello! My name is Nizar,
 
 I'm an Electrical Engineering student at **UC San Diego**, focused on **PCB design, digital hardware, and embedded systems**. I enjoy taking projects from circuit analysis and simulation to schematic capture, board layout, and hands-on testing.
 
